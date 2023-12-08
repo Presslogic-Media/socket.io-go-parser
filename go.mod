@@ -4,8 +4,8 @@ go 1.21
 
 require (
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/Presslogic-Media/engine.io-go-parser v1.2.3
-	github.com/Presslogic-Media/engine.io/v2 v2.0.3
+	github.com/Presslogic-Media/engine.io-go-parser latest
+	github.com/Presslogic-Media/engine.io/v2 latest
 )
 
 require (
