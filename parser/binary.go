@@ -4,8 +4,8 @@ import (
 	"errors"
 	"io"
 
+	"github.com/Presslogic-Media/engine.io-go-parser/types"
 	"github.com/mitchellh/mapstructure"
-	"github.com/zishang520/engine.io-go-parser/types"
 )
 
 type Placeholder struct {

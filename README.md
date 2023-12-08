@@ -1,13 +1,13 @@
 
 # socket.io-go-parser
 
-[![Build Status](https://github.com/zishang520/socket.io-go-parser/workflows/Go/badge.svg?branch=main)](https://github.com/zishang520/socket.io-go-parser/actions)
-[![GoDoc](https://pkg.go.dev/badge/github.com/zishang520/socket.io-go-parser/v2?utm_source=godoc)](https://pkg.go.dev/github.com/zishang520/socket.io-go-parser/v2)
+[![Build Status](https://github.com/Presslogic-Media/socket.io-go-parser/workflows/Go/badge.svg?branch=main)](https://github.com/Presslogic-Media/socket.io-go-parser/actions)
+[![GoDoc](https://pkg.go.dev/badge/github.com/Presslogic-Media/socket.io-go-parser/v2?utm_source=godoc)](https://pkg.go.dev/github.com/Presslogic-Media/socket.io-go-parser/v2)
 
 This is the golang parser for the socket.io protocol encoding,
 shared by both
-[socket.io-client-go(not ready)](https://github.com/zishang520/socket.io-client-go) and
-[socket.io](https://github.com/zishang520/socket.io).
+[socket.io-client-go(not ready)](https://github.com/Presslogic-Media/socket.io-client-go) and
+[socket.io](https://github.com/Presslogic-Media/socket.io).
 
 Compatibility table:
 
@@ -30,8 +30,8 @@ Compatibility table:
 package main
 
 import (
-  "github.com/zishang520/engine.io/v2/utils"
-  "github.com/zishang520/socket.io-go-parser/v2/parser"
+  "github.com/Presslogic-Media/engine.io/v2/utils"
+  "github.com/Presslogic-Media/socket.io-go-parser/v2/parser"
 )
 
 func main() {
@@ -66,8 +66,8 @@ func main() {
 package main
 
 import (
-  "github.com/zishang520/engine.io/v2/utils"
-  "github.com/zishang520/socket.io-go-parser/v2/parser"
+  "github.com/Presslogic-Media/engine.io/v2/utils"
+  "github.com/Presslogic-Media/socket.io-go-parser/v2/parser"
 )
 
 func main() {
@@ -110,7 +110,7 @@ make test
 
 ## Support
 
-[issues](https://github.com/zishang520/socket.io-go-parser/issues)
+[issues](https://github.com/Presslogic-Media/socket.io-go-parser/issues)
 
 ## Development
 
@@ -118,7 +118,7 @@ To contribute patches, run tests or benchmarks, make sure to clone the
 repository:
 
 ```bash
-git clone git://github.com/zishang520/socket.io-go-parser.git
+git clone git://github.com/Presslogic-Media/socket.io-go-parser.git
 ```
 
 Then:

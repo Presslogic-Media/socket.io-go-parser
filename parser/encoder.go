@@ -5,7 +5,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/zishang520/engine.io-go-parser/types"
+	"github.com/Presslogic-Media/engine.io-go-parser/types"
 )
 
 // A socket.io Encoder instance

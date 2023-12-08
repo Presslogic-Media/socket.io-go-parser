@@ -9,10 +9,10 @@ import (
 	"strings"
 	"sync"
 
-	"github.com/zishang520/engine.io-go-parser/types"
-	"github.com/zishang520/engine.io/v2/events"
-	"github.com/zishang520/engine.io/v2/log"
-	_types "github.com/zishang520/engine.io/v2/types"
+	"github.com/Presslogic-Media/engine.io-go-parser/types"
+	"github.com/Presslogic-Media/engine.io/v2/events"
+	"github.com/Presslogic-Media/engine.io/v2/log"
+	_types "github.com/Presslogic-Media/engine.io/v2/types"
 )
 
 var (

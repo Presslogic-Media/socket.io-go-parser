@@ -1,11 +1,11 @@
-module github.com/zishang520/socket.io-go-parser/v2
+module github.com/Presslogic-Media/socket.io-go-parser/v2
 
 go 1.21
 
 require (
 	github.com/mitchellh/mapstructure v1.5.0
-	github.com/zishang520/engine.io-go-parser v1.2.3
-	github.com/zishang520/engine.io/v2 v2.0.3
+	github.com/Presslogic-Media/engine.io-go-parser v1.2.3
+	github.com/Presslogic-Media/engine.io/v2 v2.0.3
 )
 
 require (
